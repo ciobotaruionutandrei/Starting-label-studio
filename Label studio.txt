@@ -1,0 +1,2 @@
+conda activate yolo-env1
+label-studio start
